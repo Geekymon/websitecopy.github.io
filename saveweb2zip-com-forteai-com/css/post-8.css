@@ -1,0 +1,63 @@
+.elementor-kit-8{--e-global-color-primary:#4B21EE;--e-global-color-secondary:#0D0B33;--e-global-color-text:#0F0F0F;--e-global-color-accent:#79EFBB;--e-global-color-bdac712:#0A7AFF;--e-global-color-035400b:#FFFFFF;--e-global-color-69c22ba:#F0F5F5;--e-global-color-70a1532:#8A62EE;--e-global-typography-primary-font-family:"Satoshi";--e-global-typography-primary-font-weight:400;--e-global-typography-secondary-font-family:"Satoshi";--e-global-typography-secondary-font-weight:700;--e-global-typography-text-font-family:"Satoshi";--e-global-typography-text-font-size:17px;--e-global-typography-text-font-weight:100;--e-global-typography-accent-font-family:"Satoshi";--e-global-typography-accent-font-weight:400;color:#0C0C0C;background-color:#FFFFFF;}.elementor-kit-8 button,.elementor-kit-8 input[type="button"],.elementor-kit-8 input[type="submit"],.elementor-kit-8 .elementor-button{text-shadow:0px 0px 10px rgba(0,0,0,0.3);color:var( --e-global-color-035400b );background-color:var( --e-global-color-primary );border-radius:8px 8px 8px 0px;padding:9px 20px 9px 20px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1200px;}.e-con{--container-max-width:1200px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-8 e-page-transition{background-color:#FFBC7D;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */body {
+    overflow-x: hidden;
+}
+
+/*.scroll-headline, .scroll-des{
+    opacity: 0;
+}*//* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Satoshi';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../fonts/Satoshi-Light.eot');
+	src: url('../fonts/Satoshi-Light.eot#iefix') format('embedded-opentype'),
+		url('../fonts/Satoshi-Light.woff2') format('woff2'),
+		url('../fonts/Satoshi-Light.woff') format('woff'),
+		url('../fonts/Satoshi-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Satoshi';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../fonts/Satoshi-Medium.eot');
+	src: url('../fonts/Satoshi-Medium.eot#iefix') format('embedded-opentype'),
+		url('../fonts/Satoshi-Medium.woff2') format('woff2'),
+		url('../fonts/Satoshi-Medium.woff') format('woff'),
+		url('../fonts/Satoshi-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Satoshi';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('../fonts/Satoshi-Bold.eot');
+	src: url('../fonts/Satoshi-Bold.eot#iefix') format('embedded-opentype'),
+		url('../fonts/Satoshi-Bold.woff2') format('woff2'),
+		url('../fonts/Satoshi-Bold.woff') format('woff'),
+		url('../fonts/Satoshi-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Satoshi';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('../fonts/Satoshi-Black.eot');
+	src: url('../fonts/Satoshi-Black.eot#iefix') format('embedded-opentype'),
+		url('../fonts/Satoshi-Black.woff2') format('woff2'),
+		url('../fonts/Satoshi-Black.woff') format('woff'),
+		url('../fonts/Satoshi-Black.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Satoshi';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('../fonts/Satoshi-Regular.eot');
+	src: url('../fonts/Satoshi-Regular.eot#iefix') format('embedded-opentype'),
+		url('../fonts/Satoshi-Regular.woff2') format('woff2'),
+		url('../fonts/Satoshi-Regular.woff') format('woff'),
+		url('../fonts/Satoshi-Regular.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
